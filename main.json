@@ -1,0 +1,55 @@
+{
+	"profile":{
+		"img":"Chrysanthemum.jpg",
+		"id":"16NN1A1258",
+		"name":"Bhavani",
+		"branch":"IT",
+		"institute":"vignan nirula"
+	},
+	"career":{
+		"info":"Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector."
+	},
+	"educational":[
+		{
+			"degree":"b.tech",
+			"institution":"vignan nirula",
+			"yop":"2020"
+		},
+		{
+			"degree":"intermediate",
+			"institution":"sri chaitanya",
+			"yop":"2016"	
+		},
+		{
+			"degree":"ssc",
+			"institution":"bhanu model",
+			"yop":"2014"
+		}
+	],
+	"languages":[
+		{	
+			"lang":"english"
+
+		},
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"hindi"
+		}
+	],
+	"skills":[
+	{
+		"title":"platforms",
+		"content":"windows,linus"
+	},
+	{
+		"title":"programming languages",
+		"content":"c,c++,java"
+	},
+	{
+		"title":"database",
+		"content":"mysql"
+	}
+]
+}
